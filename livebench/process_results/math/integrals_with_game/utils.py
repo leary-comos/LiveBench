@@ -232,4 +232,3 @@ def integrals_with_game_process_results(ground_truth: str, llm_answer: str, debu
         print("END OF OUTPUT:", llm_answer[-300:])
     
     return score
-
