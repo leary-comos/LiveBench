@@ -121,4 +121,3 @@ def proof_rearrangement_process_results(ground_truth: str, llm_answer: str, edit
         print('END OF OUTPUT', llm_answer[-1500:])
 
     return frac_matches
-
